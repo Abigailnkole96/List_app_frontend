@@ -1,0 +1,15 @@
+{
+"products": [{
+"product":"Smartphones",
+"Dealers":["Iphone","Samsung","Huawei", "Nokia"]
+},{
+  "product":"Laptops",
+  "Dealers":["Lenovo","Dell","Apple", "Asus", "Acer", "Samsung", "Hewlett Packard"]
+},{
+  "product":"Mouse",
+  "Dealers":["DXC Electronics","Tech City"]
+  },{
+  "product":"Printer",
+  "Dealers":["Binglee","DXC Electronics","Bobay","GH Computers"]
+  }]
+}
